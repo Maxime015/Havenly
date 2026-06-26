@@ -1,9 +1,13 @@
-<div align="center">
-    <img 
+<img 
   src="./assets/images/screenshots/icon.png" 
   width="300" 
   height="220" 
-  style="display: block; margin: 0 auto; border-radius: 16px;" 
+  style="
+    display: block; 
+    margin: 0 auto; 
+    border-radius: 16px; 
+    object-fit: cover;
+  " 
 />
 <h1>🏡 Application Mobile Full-Stack de gestion immobilière</h1>
 <p>
