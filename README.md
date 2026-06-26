@@ -1,14 +1,4 @@
-<img 
-  src="./assets/images/screenshots/icon.png" 
-  width="300" 
-  height="220" 
-  style="
-    display: block; 
-    margin: 0 auto; 
-    border-radius: 16px; 
-    object-fit: cover;
-  " 
-/>
+<img src="./assets/images/screenshots/icon.png" width="300" height="220" style="display: block; margin: 0 auto"/>
 <h1>🏡 Application Mobile Full-Stack de gestion immobilière</h1>
 <p>
     <strong>Havenly</strong> est une application immobilière complète conçue pour gérer et explorer des annonces de propriétés sur <strong>iOS</strong> et <strong>Android</strong>.
