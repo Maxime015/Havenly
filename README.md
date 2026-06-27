@@ -46,6 +46,7 @@
 - ⚡ Gestion performante de l'état global avec Zustand
 - 💾 Stockage persistant des données utilisateur et des annonces
 - 🚀 Déploiement vers le Google Play Store et l'App Store
+- 🌙 Design à thème sombre
 
 ---
 
